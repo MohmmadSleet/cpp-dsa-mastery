@@ -1,0 +1,5 @@
+﻿  TrimLeft    TrimRight    Trim.cpp
+C:\Users\mohmmad sleet\source\repos\TrimLeft    TrimRight    Trim\TrimLeft    TrimRight    Trim\TrimLeft    TrimRight    Trim.cpp(16,15): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mohmmad sleet\source\repos\TrimLeft    TrimRight    Trim\TrimLeft    TrimRight    Trim\TrimLeft    TrimRight    Trim.cpp(13,1): warning C4715: 'TrimLeft': not all control paths return a value
+C:\Users\mohmmad sleet\source\repos\TrimLeft    TrimRight    Trim\TrimLeft    TrimRight    Trim\TrimLeft    TrimRight    Trim.cpp(21,1): warning C4715: 'TrimRight': not all control paths return a value
+  TrimLeft    TrimRight    Trim.vcxproj -> C:\Users\mohmmad sleet\source\repos\TrimLeft    TrimRight    Trim\x64\Debug\TrimLeft    TrimRight    Trim.exe

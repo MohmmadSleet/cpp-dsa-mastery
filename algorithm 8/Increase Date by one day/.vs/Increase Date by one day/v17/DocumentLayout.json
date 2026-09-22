@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\Increase Date by one day\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3278233-174B-4D1A-983E-B3023B9B0B39}|Increase Date by one day\\Increase Date by one day.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\Increase Date by one day\\Increase Date by one day\\Increase Date by one day.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3278233-174B-4D1A-983E-B3023B9B0B39}|Increase Date by one day\\Increase Date by one day.vcxproj|solutionrelative:Increase Date by one day\\Increase Date by one day.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Increase Date by one day.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\Increase Date by one day\\Increase Date by one day\\Increase Date by one day.cpp",
+              "RelativeDocumentMoniker": "Increase Date by one day\\Increase Date by one day.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\Increase Date by one day\\Increase Date by one day\\Increase Date by one day.cpp",
+              "RelativeToolTip": "Increase Date by one day\\Increase Date by one day.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAuwEoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-30T13:08:23.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

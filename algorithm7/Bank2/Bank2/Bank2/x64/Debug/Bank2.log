@@ -1,0 +1,5 @@
+﻿  Bank2.cpp
+C:\Users\mohmmad sleet\source\repos\Bank2\Bank2\Bank2.cpp(38,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mohmmad sleet\source\repos\Bank2\Bank2\Bank2.cpp(252,1): warning C4715: 'DeletClientByAccountNumber': not all control paths return a value
+C:\Users\mohmmad sleet\source\repos\Bank2\Bank2\Bank2.cpp(302,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  Bank2.vcxproj -> C:\Users\mohmmad sleet\source\repos\Bank2\Bank2\x64\Debug\Bank2.exe

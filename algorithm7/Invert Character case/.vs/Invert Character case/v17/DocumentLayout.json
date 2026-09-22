@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\Invert Character case\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5687F7D3-8D76-44B0-B7F3-6F969D7904B8}|Invert Character case\\Invert Character case.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\Invert Character case\\Invert Character case\\Invert Character case.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5687F7D3-8D76-44B0-B7F3-6F969D7904B8}|Invert Character case\\Invert Character case.vcxproj|solutionrelative:Invert Character case\\Invert Character case.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Invert Character case.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\Invert Character case\\Invert Character case\\Invert Character case.cpp",
+              "RelativeDocumentMoniker": "Invert Character case\\Invert Character case.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\Invert Character case\\Invert Character case\\Invert Character case.cpp",
+              "RelativeToolTip": "Invert Character case\\Invert Character case.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T13:58:30.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

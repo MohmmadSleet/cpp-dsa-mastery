@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\Number Exist In Matrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24DCF516-B3F1-4E45-A569-234AC42CAC02}|Number Exist In Matrix\\Number Exist In Matrix.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\Number Exist In Matrix\\Number Exist In Matrix\\Number Exist In Matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{24DCF516-B3F1-4E45-A569-234AC42CAC02}|Number Exist In Matrix\\Number Exist In Matrix.vcxproj|solutionrelative:Number Exist In Matrix\\Number Exist In Matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Number Exist In Matrix.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\Number Exist In Matrix\\Number Exist In Matrix\\Number Exist In Matrix.cpp",
+              "RelativeDocumentMoniker": "Number Exist In Matrix\\Number Exist In Matrix.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\Number Exist In Matrix\\Number Exist In Matrix\\Number Exist In Matrix.cpp",
+              "RelativeToolTip": "Number Exist In Matrix\\Number Exist In Matrix.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T08:54:09.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

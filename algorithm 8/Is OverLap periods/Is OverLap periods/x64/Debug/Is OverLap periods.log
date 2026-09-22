@@ -1,0 +1,4 @@
+﻿  Is OverLap periods.cpp
+C:\Users\mohmmad sleet\source\repos\Is OverLap periods\Is OverLap periods\Is OverLap periods.cpp(60,25): warning C4305: 'return': truncation from 'enDateCompare' to 'bool'
+C:\Users\mohmmad sleet\source\repos\Is OverLap periods\Is OverLap periods\Is OverLap periods.cpp(70,73): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'enDateCompare' can equal the given constant
+  Is OverLap periods.vcxproj -> C:\Users\mohmmad sleet\source\repos\Is OverLap periods\x64\Debug\Is OverLap periods.exe

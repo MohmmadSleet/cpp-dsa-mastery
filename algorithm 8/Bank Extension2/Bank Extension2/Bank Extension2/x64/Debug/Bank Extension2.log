@@ -1,0 +1,8 @@
+﻿  Bank Extension2.cpp
+C:\Users\mohmmad sleet\source\repos\Bank Extension2\Bank Extension2\Bank Extension2.cpp(70,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mohmmad sleet\source\repos\Bank Extension2\Bank Extension2\Bank Extension2.cpp(876,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\mohmmad sleet\source\repos\Bank Extension2\Bank Extension2\Bank Extension2.cpp(918,1): warning C4715: 'DeleteUserByUsername': not all control paths return a value
+C:\Users\mohmmad sleet\source\repos\Bank Extension2\Bank Extension2\Bank Extension2.cpp(958,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+C:\Users\mohmmad sleet\source\repos\Bank Extension2\Bank Extension2\Bank Extension2.cpp(998,1): warning C4715: 'UpdateUserByUsername': not all control paths return a value
+C:\Users\mohmmad sleet\source\repos\Bank Extension2\Bank Extension2\Bank Extension2.cpp(1025,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  Bank Extension2.vcxproj -> C:\Users\mohmmad sleet\source\repos\Bank Extension2\Bank Extension2\x64\Debug\Bank Extension2.exe

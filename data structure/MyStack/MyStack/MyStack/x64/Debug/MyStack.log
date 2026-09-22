@@ -1,0 +1,7 @@
+﻿  MyStack.cpp
+C:\Users\mohmmad sleet\source\repos\MyStack\MyStack\clsMyStack.h(26,26): error C2039: 'back': is not a member of 'clsMyQueue<T>'
+C:\Users\mohmmad sleet\source\repos\MyStack\MyStack\clsMyStack.h(26,26): error C2039:         with
+C:\Users\mohmmad sleet\source\repos\MyStack\MyStack\clsMyStack.h(26,26): error C2039:         [
+C:\Users\mohmmad sleet\source\repos\MyStack\MyStack\clsMyStack.h(26,26): error C2039:             T=int
+C:\Users\mohmmad sleet\source\repos\MyStack\MyStack\clsMyStack.h(26,26): error C2039:         ]
+C:\Users\mohmmad sleet\source\repos\MyStack\MyStack\clsMyStack.h(26,26): error C3861: 'back': identifier not found

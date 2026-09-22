@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\Invert all letter case\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62760B3E-CA56-45EF-8FBC-D6C5AF6C560B}|Invert all letter case\\Invert all letter case.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\Invert all letter case\\Invert all letter case\\Invert all letter case.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62760B3E-CA56-45EF-8FBC-D6C5AF6C560B}|Invert all letter case\\Invert all letter case.vcxproj|solutionrelative:Invert all letter case\\Invert all letter case.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Invert all letter case.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\Invert all letter case\\Invert all letter case\\Invert all letter case.cpp",
+              "RelativeDocumentMoniker": "Invert all letter case\\Invert all letter case.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\Invert all letter case\\Invert all letter case\\Invert all letter case.cpp",
+              "RelativeToolTip": "Invert all letter case\\Invert all letter case.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T14:10:00.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

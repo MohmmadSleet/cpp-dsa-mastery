@@ -1,0 +1,4 @@
+﻿  Replace Word.cpp
+C:\Users\mohmmad sleet\source\repos\Replace Word\Replace Word\Replace Word.cpp(10,12): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mohmmad sleet\source\repos\Replace Word\Replace Word\Replace Word.cpp(14,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Replace Word.vcxproj -> C:\Users\mohmmad sleet\source\repos\Replace Word\x64\Debug\Replace Word.exe

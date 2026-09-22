@@ -1,0 +1,3 @@
+﻿  Convert line Data to record.cpp
+C:\Users\mohmmad sleet\source\repos\Convert line Data to record\Convert line Data to record\Convert line Data to record.cpp(20,27): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Convert line Data to record.vcxproj -> C:\Users\mohmmad sleet\source\repos\Convert line Data to record\x64\Debug\Convert line Data to record.exe

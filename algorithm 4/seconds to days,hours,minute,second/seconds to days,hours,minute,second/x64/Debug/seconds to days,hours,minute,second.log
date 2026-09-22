@@ -1,0 +1,6 @@
+﻿  seconds to days,hours,minute,second.cpp
+C:\Users\mohmmad sleet\source\repos\seconds to days,hours,minute,second\seconds to days,hours,minute,second\seconds to days,hours,minute,second.cpp(27,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\mohmmad sleet\source\repos\seconds to days,hours,minute,second\seconds to days,hours,minute,second\seconds to days,hours,minute,second.cpp(29,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\mohmmad sleet\source\repos\seconds to days,hours,minute,second\seconds to days,hours,minute,second\seconds to days,hours,minute,second.cpp(31,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\mohmmad sleet\source\repos\seconds to days,hours,minute,second\seconds to days,hours,minute,second\seconds to days,hours,minute,second.cpp(44,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  seconds to days,hours,minute,second.vcxproj -> C:\Users\mohmmad sleet\source\repos\seconds to days,hours,minute,second\x64\Debug\seconds to days,hours,minute,second.exe

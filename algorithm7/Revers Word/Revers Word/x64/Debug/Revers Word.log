@@ -1,0 +1,3 @@
+﻿  Revers Word.cpp
+C:\Users\mohmmad sleet\source\repos\Revers Word\Revers Word\Revers Word.cpp(15,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Revers Word.vcxproj -> C:\Users\mohmmad sleet\source\repos\Revers Word\x64\Debug\Revers Word.exe

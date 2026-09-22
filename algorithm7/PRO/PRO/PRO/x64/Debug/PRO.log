@@ -1,0 +1,6 @@
+﻿  PRO.cpp
+C:\Users\mohmmad sleet\source\repos\PRO\PRO\PRO.cpp(41,28): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mohmmad sleet\source\repos\PRO\PRO\PRO.cpp(441,19): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\mohmmad sleet\source\repos\PRO\PRO\PRO.cpp(261,1): warning C4715: 'DeletClientByAccountNumber': not all control paths return a value
+C:\Users\mohmmad sleet\source\repos\PRO\PRO\PRO.cpp(304,1): warning C4715: 'UpdatedClientByAccountNumber': not all control paths return a value
+  PRO.vcxproj -> C:\Users\mohmmad sleet\source\repos\PRO\PRO\x64\Debug\PRO.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\multiplication table 1to10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{978F9C08-67D1-4F03-943A-E905705A3019}|multiplication table 1to10\\multiplication table 1to10.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\multiplication table 1to10\\multiplication table 1to10\\multiplication table 1to10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{978F9C08-67D1-4F03-943A-E905705A3019}|multiplication table 1to10\\multiplication table 1to10.vcxproj|solutionrelative:multiplication table 1to10\\multiplication table 1to10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "multiplication table 1to10.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\multiplication table 1to10\\multiplication table 1to10\\multiplication table 1to10.cpp",
+              "RelativeDocumentMoniker": "multiplication table 1to10\\multiplication table 1to10.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\multiplication table 1to10\\multiplication table 1to10\\multiplication table 1to10.cpp",
+              "RelativeToolTip": "multiplication table 1to10\\multiplication table 1to10.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-21T20:51:30.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

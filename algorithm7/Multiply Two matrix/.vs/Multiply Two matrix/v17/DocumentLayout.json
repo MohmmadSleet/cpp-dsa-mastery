@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\Multiply Two matrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA74DD23-EF53-44EC-A4DA-402E5BED425E}|Multiply Two matrix\\Multiply Two matrix.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\Multiply Two matrix\\Multiply Two matrix\\Multiply Two matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA74DD23-EF53-44EC-A4DA-402E5BED425E}|Multiply Two matrix\\Multiply Two matrix.vcxproj|solutionrelative:Multiply Two matrix\\Multiply Two matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Multiply Two matrix.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\Multiply Two matrix\\Multiply Two matrix\\Multiply Two matrix.cpp",
+              "RelativeDocumentMoniker": "Multiply Two matrix\\Multiply Two matrix.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\Multiply Two matrix\\Multiply Two matrix\\Multiply Two matrix.cpp",
+              "RelativeToolTip": "Multiply Two matrix\\Multiply Two matrix.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-18T14:50:37.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\Generate key\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2BDA9E-9B55-4C51-B00A-39EE154B1CDD}|Generate key\\Generate key.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\Generate key\\Generate key\\Generate key.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD2BDA9E-9B55-4C51-B00A-39EE154B1CDD}|Generate key\\Generate key.vcxproj|solutionrelative:Generate key\\Generate key.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Generate key.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\Generate key\\Generate key\\Generate key.cpp",
+              "RelativeDocumentMoniker": "Generate key\\Generate key.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\Generate key\\Generate key\\Generate key.cpp",
+              "RelativeToolTip": "Generate key\\Generate key.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-26T15:32:47.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

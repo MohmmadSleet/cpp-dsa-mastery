@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\COUNT SMALL CAPITAL NUMBER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9475EE3F-B7C1-4E24-B6DE-86592C1B3BA2}|COUNT SMALL CAPITAL NUMBER\\COUNT SMALL CAPITAL NUMBER.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\COUNT SMALL CAPITAL NUMBER\\COUNT SMALL CAPITAL NUMBER\\COUNT SMALL CAPITAL NUMBER.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9475EE3F-B7C1-4E24-B6DE-86592C1B3BA2}|COUNT SMALL CAPITAL NUMBER\\COUNT SMALL CAPITAL NUMBER.vcxproj|solutionrelative:COUNT SMALL CAPITAL NUMBER\\COUNT SMALL CAPITAL NUMBER.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "COUNT SMALL CAPITAL NUMBER.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\COUNT SMALL CAPITAL NUMBER\\COUNT SMALL CAPITAL NUMBER\\COUNT SMALL CAPITAL NUMBER.cpp",
+              "RelativeDocumentMoniker": "COUNT SMALL CAPITAL NUMBER\\COUNT SMALL CAPITAL NUMBER.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\COUNT SMALL CAPITAL NUMBER\\COUNT SMALL CAPITAL NUMBER\\COUNT SMALL CAPITAL NUMBER.cpp",
+              "RelativeToolTip": "COUNT SMALL CAPITAL NUMBER\\COUNT SMALL CAPITAL NUMBER.cpp",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T14:21:52.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

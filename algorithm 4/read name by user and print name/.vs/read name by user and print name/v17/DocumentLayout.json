@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\read name by user and print name\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3431C7C-8522-4581-8E58-10D882B71144}|read name by user and print name\\read name by user and print name.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\read name by user and print name\\read name by user and print name\\read name by user and print name.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3431C7C-8522-4581-8E58-10D882B71144}|read name by user and print name\\read name by user and print name.vcxproj|solutionrelative:read name by user and print name\\read name by user and print name.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "read name by user and print name.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\read name by user and print name\\read name by user and print name\\read name by user and print name.cpp",
+              "RelativeDocumentMoniker": "read name by user and print name\\read name by user and print name.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\read name by user and print name\\read name by user and print name\\read name by user and print name.cpp",
+              "RelativeToolTip": "read name by user and print name\\read name by user and print name.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-18T14:24:54.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

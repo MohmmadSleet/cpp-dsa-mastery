@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\prime number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD76971-19DC-4D86-AB99-29219698B604}|prime number\\prime number.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\prime number\\prime number\\prime number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9FD76971-19DC-4D86-AB99-29219698B604}|prime number\\prime number.vcxproj|solutionrelative:prime number\\prime number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "prime number.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\prime number\\prime number\\prime number.cpp",
+              "RelativeDocumentMoniker": "prime number\\prime number.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\prime number\\prime number\\prime number.cpp",
+              "RelativeToolTip": "prime number\\prime number.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-20T12:30:42.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

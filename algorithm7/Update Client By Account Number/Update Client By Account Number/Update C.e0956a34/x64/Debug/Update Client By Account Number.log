@@ -1,0 +1,4 @@
+﻿  Update Client By Account Number.cpp
+C:\Users\mohmmad sleet\source\repos\Update Client By Account Number\Update Client By Account Number\Update Client By Account Number.cpp(21,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mohmmad sleet\source\repos\Update Client By Account Number\Update Client By Account Number\Update Client By Account Number.cpp(150,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  Update Client By Account Number.vcxproj -> C:\Users\mohmmad sleet\source\repos\Update Client By Account Number\Update Client By Account Number\x64\Debug\Update Client By Account Number.exe

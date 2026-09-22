@@ -1,0 +1,3 @@
+﻿  count each word in string.cpp
+C:\Users\mohmmad sleet\source\repos\count each word in string\count each word in string\count each word in string.cpp(21,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  count each word in string.vcxproj -> C:\Users\mohmmad sleet\source\repos\count each word in string\x64\Debug\count each word in string.exe

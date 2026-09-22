@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\print digits in a revered oeder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8174D2-4092-4CB9-BD7D-E7E5EB7816DB}|print digits in a revered oeder\\print digits in a revered oeder.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\print digits in a revered oeder\\print digits in a revered oeder\\print digits in a revered oeder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E8174D2-4092-4CB9-BD7D-E7E5EB7816DB}|print digits in a revered oeder\\print digits in a revered oeder.vcxproj|solutionrelative:print digits in a revered oeder\\print digits in a revered oeder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "print digits in a revered oeder.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\print digits in a revered oeder\\print digits in a revered oeder\\print digits in a revered oeder.cpp",
+              "RelativeDocumentMoniker": "print digits in a revered oeder\\print digits in a revered oeder.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\print digits in a revered oeder\\print digits in a revered oeder\\print digits in a revered oeder.cpp",
+              "RelativeToolTip": "print digits in a revered oeder\\print digits in a revered oeder.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowBYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-24T08:46:22.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

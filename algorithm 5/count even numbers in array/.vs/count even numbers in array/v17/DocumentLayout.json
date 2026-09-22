@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\count even numbers in array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CBB506D-7C6E-4F92-AF21-7F56A6C4CED3}|count even numbers in array\\count even numbers in array.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\count even numbers in array\\count even numbers in array\\count even numbers in array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CBB506D-7C6E-4F92-AF21-7F56A6C4CED3}|count even numbers in array\\count even numbers in array.vcxproj|solutionrelative:count even numbers in array\\count even numbers in array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "count even numbers in array.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\count even numbers in array\\count even numbers in array\\count even numbers in array.cpp",
+              "RelativeDocumentMoniker": "count even numbers in array\\count even numbers in array.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\count even numbers in array\\count even numbers in array\\count even numbers in array.cpp",
+              "RelativeToolTip": "count even numbers in array\\count even numbers in array.cpp",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-05T14:26:00.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

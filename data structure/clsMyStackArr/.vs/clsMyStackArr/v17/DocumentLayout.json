@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\clsMyStackArr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F196F55-2028-411B-8F72-98D47550457E}|clsMyStackArr\\clsMyStackArr.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\clsMyStackArr\\clsMyStackArr\\clsDynamicArr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F196F55-2028-411B-8F72-98D47550457E}|clsMyStackArr\\clsMyStackArr.vcxproj|solutionrelative:clsMyStackArr\\clsDynamicArr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F196F55-2028-411B-8F72-98D47550457E}|clsMyStackArr\\clsMyStackArr.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\clsMyStackArr\\clsMyStackArr\\clsMyQueueArr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F196F55-2028-411B-8F72-98D47550457E}|clsMyStackArr\\clsMyStackArr.vcxproj|solutionrelative:clsMyStackArr\\clsMyQueueArr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F196F55-2028-411B-8F72-98D47550457E}|clsMyStackArr\\clsMyStackArr.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\clsMyStackArr\\clsMyStackArr\\clsMyStackArr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F196F55-2028-411B-8F72-98D47550457E}|clsMyStackArr\\clsMyStackArr.vcxproj|solutionrelative:clsMyStackArr\\clsMyStackArr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F196F55-2028-411B-8F72-98D47550457E}|clsMyStackArr\\clsMyStackArr.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\clsMyStackArr\\clsMyStackArr\\clsMyStackArr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F196F55-2028-411B-8F72-98D47550457E}|clsMyStackArr\\clsMyStackArr.vcxproj|solutionrelative:clsMyStackArr\\clsMyStackArr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsDynamicArr.h",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\clsMyStackArr\\clsMyStackArr\\clsDynamicArr.h",
+              "RelativeDocumentMoniker": "clsMyStackArr\\clsDynamicArr.h",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\clsMyStackArr\\clsMyStackArr\\clsDynamicArr.h",
+              "RelativeToolTip": "clsMyStackArr\\clsDynamicArr.h",
+              "ViewState": "AQIAAPQAAAAAAAAAAAApwAABAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-07T08:12:33.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsMyStackArr.h",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\clsMyStackArr\\clsMyStackArr\\clsMyStackArr.h",
+              "RelativeDocumentMoniker": "clsMyStackArr\\clsMyStackArr.h",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\clsMyStackArr\\clsMyStackArr\\clsMyStackArr.h",
+              "RelativeToolTip": "clsMyStackArr\\clsMyStackArr.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-07T08:09:10.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsMyQueueArr.h",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\clsMyStackArr\\clsMyStackArr\\clsMyQueueArr.h",
+              "RelativeDocumentMoniker": "clsMyStackArr\\clsMyQueueArr.h",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\clsMyStackArr\\clsMyStackArr\\clsMyQueueArr.h",
+              "RelativeToolTip": "clsMyStackArr\\clsMyQueueArr.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-07T08:06:35.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsMyStackArr.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\clsMyStackArr\\clsMyStackArr\\clsMyStackArr.cpp",
+              "RelativeDocumentMoniker": "clsMyStackArr\\clsMyStackArr.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\clsMyStackArr\\clsMyStackArr\\clsMyStackArr.cpp",
+              "RelativeToolTip": "clsMyStackArr\\clsMyStackArr.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-07T08:05:47.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

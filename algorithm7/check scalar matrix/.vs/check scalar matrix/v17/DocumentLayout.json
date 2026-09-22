@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\check scalar matrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B035436-F18C-4CD0-ACFD-079E68B7A797}|check scalar matrix\\check scalar matrix.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\check scalar matrix\\check scalar matrix\\check scalar matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B035436-F18C-4CD0-ACFD-079E68B7A797}|check scalar matrix\\check scalar matrix.vcxproj|solutionrelative:check scalar matrix\\check scalar matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "check scalar matrix.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\check scalar matrix\\check scalar matrix\\check scalar matrix.cpp",
+              "RelativeDocumentMoniker": "check scalar matrix\\check scalar matrix.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\check scalar matrix\\check scalar matrix\\check scalar matrix.cpp",
+              "RelativeToolTip": "check scalar matrix\\check scalar matrix.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwBAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T07:42:47.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

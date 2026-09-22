@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\abu hadhoud\\oop 2 course11\\Bank Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6FE839-DF72-408C-8924-68D5CC1D959B}|Bank Project\\Bank Project.vcxproj|E:\\abu hadhoud\\oop 2 course11\\Bank Project\\Bank Project\\Bank Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B6FE839-DF72-408C-8924-68D5CC1D959B}|Bank Project\\Bank Project.vcxproj|solutionrelative:Bank Project\\Bank Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank Project.cpp",
+              "DocumentMoniker": "E:\\abu hadhoud\\oop 2 course11\\Bank Project\\Bank Project\\Bank Project.cpp",
+              "RelativeDocumentMoniker": "Bank Project\\Bank Project.cpp",
+              "ToolTip": "E:\\abu hadhoud\\oop 2 course11\\Bank Project\\Bank Project\\Bank Project.cpp",
+              "RelativeToolTip": "Bank Project\\Bank Project.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T11:10:43.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

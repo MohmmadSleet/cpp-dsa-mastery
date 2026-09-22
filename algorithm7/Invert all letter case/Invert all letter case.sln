@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Invert all letter case", "Invert all letter case\Invert all letter case.vcxproj", "{62760B3E-CA56-45EF-8FBC-D6C5AF6C560B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62760B3E-CA56-45EF-8FBC-D6C5AF6C560B}.Debug|x64.ActiveCfg = Debug|x64
+		{62760B3E-CA56-45EF-8FBC-D6C5AF6C560B}.Debug|x64.Build.0 = Debug|x64
+		{62760B3E-CA56-45EF-8FBC-D6C5AF6C560B}.Debug|x86.ActiveCfg = Debug|Win32
+		{62760B3E-CA56-45EF-8FBC-D6C5AF6C560B}.Debug|x86.Build.0 = Debug|Win32
+		{62760B3E-CA56-45EF-8FBC-D6C5AF6C560B}.Release|x64.ActiveCfg = Release|x64
+		{62760B3E-CA56-45EF-8FBC-D6C5AF6C560B}.Release|x64.Build.0 = Release|x64
+		{62760B3E-CA56-45EF-8FBC-D6C5AF6C560B}.Release|x86.ActiveCfg = Release|Win32
+		{62760B3E-CA56-45EF-8FBC-D6C5AF6C560B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A27DFF8-488C-47C4-B6F7-6FB81E4C93D9}
+	EndGlobalSection
+EndGlobal

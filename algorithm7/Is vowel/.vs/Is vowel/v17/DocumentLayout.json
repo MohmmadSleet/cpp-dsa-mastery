@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\Is vowel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D021764-8123-4FD5-B8DE-5245571B1169}|Is vowel\\Is vowel.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\Is vowel\\Is vowel\\Is vowel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9D021764-8123-4FD5-B8DE-5245571B1169}|Is vowel\\Is vowel.vcxproj|solutionrelative:Is vowel\\Is vowel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Is vowel.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\Is vowel\\Is vowel\\Is vowel.cpp",
+              "RelativeDocumentMoniker": "Is vowel\\Is vowel.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\Is vowel\\Is vowel\\Is vowel.cpp",
+              "RelativeToolTip": "Is vowel\\Is vowel.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T15:15:13.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

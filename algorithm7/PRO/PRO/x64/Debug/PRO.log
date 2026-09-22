@@ -1,0 +1,6 @@
+﻿  PRO.cpp
+E:\abu hadhoud\algorithm7\PRO\PRO\PRO.cpp(41,28): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+E:\abu hadhoud\algorithm7\PRO\PRO\PRO.cpp(441,19): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\abu hadhoud\algorithm7\PRO\PRO\PRO.cpp(261,1): warning C4715: 'DeletClientByAccountNumber': not all control paths return a value
+E:\abu hadhoud\algorithm7\PRO\PRO\PRO.cpp(304,1): warning C4715: 'UpdatedClientByAccountNumber': not all control paths return a value
+  PRO.vcxproj -> E:\abu hadhoud\algorithm7\PRO\x64\Debug\PRO.exe

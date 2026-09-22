@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\Sum Each Colum in matrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A507F6A6-1D4B-4506-A83E-F03626F21E18}|Sum Each Colum in matrix\\Sum Each Colum in matrix.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\Sum Each Colum in matrix\\Sum Each Colum in matrix\\Sum Each Colum in matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A507F6A6-1D4B-4506-A83E-F03626F21E18}|Sum Each Colum in matrix\\Sum Each Colum in matrix.vcxproj|solutionrelative:Sum Each Colum in matrix\\Sum Each Colum in matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sum Each Colum in matrix.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\Sum Each Colum in matrix\\Sum Each Colum in matrix\\Sum Each Colum in matrix.cpp",
+              "RelativeDocumentMoniker": "Sum Each Colum in matrix\\Sum Each Colum in matrix.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\Sum Each Colum in matrix\\Sum Each Colum in matrix\\Sum Each Colum in matrix.cpp",
+              "RelativeToolTip": "Sum Each Colum in matrix\\Sum Each Colum in matrix.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAqwCYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-18T12:46:36.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\max of three numbres\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27990DB6-C8CD-40A1-9A98-64A35A09830A}|max of three numbres\\max of three numbres.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\max of three numbres\\max of three numbres\\max of three numbres.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27990DB6-C8CD-40A1-9A98-64A35A09830A}|max of three numbres\\max of three numbres.vcxproj|solutionrelative:max of three numbres\\max of three numbres.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "max of three numbres.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\max of three numbres\\max of three numbres\\max of three numbres.cpp",
+              "RelativeDocumentMoniker": "max of three numbres\\max of three numbres.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\max of three numbres\\max of three numbres\\max of three numbres.cpp",
+              "RelativeToolTip": "max of three numbres\\max of three numbres.cpp",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-19T14:26:51.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\Year Calender\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86B9526C-FE82-4C69-94ED-B9AB376849F0}|Year Calender\\Year Calender.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\Year Calender\\Year Calender\\Year Calender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86B9526C-FE82-4C69-94ED-B9AB376849F0}|Year Calender\\Year Calender.vcxproj|solutionrelative:Year Calender\\Year Calender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Year Calender.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\Year Calender\\Year Calender\\Year Calender.cpp",
+              "RelativeDocumentMoniker": "Year Calender\\Year Calender.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\Year Calender\\Year Calender\\Year Calender.cpp",
+              "RelativeToolTip": "Year Calender\\Year Calender.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-29T14:05:51.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

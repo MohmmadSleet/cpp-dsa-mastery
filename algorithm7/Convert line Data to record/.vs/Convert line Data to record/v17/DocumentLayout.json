@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\Convert line Data to record\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06D89F82-E309-4EDE-A615-6992ABC87D74}|Convert line Data to record\\Convert line Data to record.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\Convert line Data to record\\Convert line Data to record\\Convert line Data to record.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06D89F82-E309-4EDE-A615-6992ABC87D74}|Convert line Data to record\\Convert line Data to record.vcxproj|solutionrelative:Convert line Data to record\\Convert line Data to record.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Convert line Data to record.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\Convert line Data to record\\Convert line Data to record\\Convert line Data to record.cpp",
+              "RelativeDocumentMoniker": "Convert line Data to record\\Convert line Data to record.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\Convert line Data to record\\Convert line Data to record\\Convert line Data to record.cpp",
+              "RelativeToolTip": "Convert line Data to record\\Convert line Data to record.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T14:06:33.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

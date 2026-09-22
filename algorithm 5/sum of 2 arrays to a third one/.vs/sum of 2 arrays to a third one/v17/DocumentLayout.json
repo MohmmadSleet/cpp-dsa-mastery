@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\sum of 2 arrays to a third one\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC7E15C-0333-43AD-A957-548F7AE738BB}|sum of 2 arrays to a third one\\sum of 2 arrays to a third one.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\sum of 2 arrays to a third one\\sum of 2 arrays to a third one\\sum of 2 arrays to a third one.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1DC7E15C-0333-43AD-A957-548F7AE738BB}|sum of 2 arrays to a third one\\sum of 2 arrays to a third one.vcxproj|solutionrelative:sum of 2 arrays to a third one\\sum of 2 arrays to a third one.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sum of 2 arrays to a third one.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\sum of 2 arrays to a third one\\sum of 2 arrays to a third one\\sum of 2 arrays to a third one.cpp",
+              "RelativeDocumentMoniker": "sum of 2 arrays to a third one\\sum of 2 arrays to a third one.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\sum of 2 arrays to a third one\\sum of 2 arrays to a third one\\sum of 2 arrays to a third one.cpp",
+              "RelativeToolTip": "sum of 2 arrays to a third one\\sum of 2 arrays to a third one.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAACUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-03T19:42:34.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\Number OF Days Hours Minute seccond In Year\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9432A008-43A7-46E0-9F63-35C88A283103}|Number OF Days Hours Minute seccond In Year\\Number OF Days Hours Minute seccond In Year.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\Number OF Days Hours Minute seccond In Year\\Number OF Days Hours Minute seccond In Year\\Number OF Days Hours Minute seccond In Year.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9432A008-43A7-46E0-9F63-35C88A283103}|Number OF Days Hours Minute seccond In Year\\Number OF Days Hours Minute seccond In Year.vcxproj|solutionrelative:Number OF Days Hours Minute seccond In Year\\Number OF Days Hours Minute seccond In Year.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Number OF Days Hours Minute seccond In Year.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\Number OF Days Hours Minute seccond In Year\\Number OF Days Hours Minute seccond In Year\\Number OF Days Hours Minute seccond In Year.cpp",
+              "RelativeDocumentMoniker": "Number OF Days Hours Minute seccond In Year\\Number OF Days Hours Minute seccond In Year.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\Number OF Days Hours Minute seccond In Year\\Number OF Days Hours Minute seccond In Year\\Number OF Days Hours Minute seccond In Year.cpp",
+              "RelativeToolTip": "Number OF Days Hours Minute seccond In Year\\Number OF Days Hours Minute seccond In Year.cpp",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-29T08:23:46.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

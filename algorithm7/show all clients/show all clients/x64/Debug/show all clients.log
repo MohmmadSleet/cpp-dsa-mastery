@@ -1,0 +1,3 @@
+﻿  show all clients.cpp
+C:\Users\mohmmad sleet\source\repos\show all clients\show all clients\show all clients.cpp(20,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  show all clients.vcxproj -> C:\Users\mohmmad sleet\source\repos\show all clients\x64\Debug\show all clients.exe

@@ -1,0 +1,6 @@
+﻿  commission percentage.cpp
+C:\Users\mohmmad sleet\source\repos\commission percentage\commission percentage\commission percentage.cpp(14,16): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\mohmmad sleet\source\repos\commission percentage\commission percentage\commission percentage.cpp(16,16): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\mohmmad sleet\source\repos\commission percentage\commission percentage\commission percentage.cpp(18,16): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\mohmmad sleet\source\repos\commission percentage\commission percentage\commission percentage.cpp(20,16): warning C4305: 'return': truncation from 'double' to 'float'
+  commission percentage.vcxproj -> C:\Users\mohmmad sleet\source\repos\commission percentage\x64\Debug\commission percentage.exe

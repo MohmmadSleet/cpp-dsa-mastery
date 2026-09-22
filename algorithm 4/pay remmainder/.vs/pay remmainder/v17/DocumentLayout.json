@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\pay remmainder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60DC59AE-03EF-4D43-AF14-3D83EDB93138}|pay remmainder\\pay remmainder.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\pay remmainder\\pay remmainder\\pay remmainder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60DC59AE-03EF-4D43-AF14-3D83EDB93138}|pay remmainder\\pay remmainder.vcxproj|solutionrelative:pay remmainder\\pay remmainder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pay remmainder.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\pay remmainder\\pay remmainder\\pay remmainder.cpp",
+              "RelativeDocumentMoniker": "pay remmainder\\pay remmainder.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\pay remmainder\\pay remmainder\\pay remmainder.cpp",
+              "RelativeToolTip": "pay remmainder\\pay remmainder.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-20T12:46:28.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

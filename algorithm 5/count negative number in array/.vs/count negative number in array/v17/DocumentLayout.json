@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\count negative number in array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B19A8E8-8B9D-4677-B4FB-AA0DB5623832}|count negative number in array\\count negative number in array.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\count negative number in array\\count negative number in array\\count negative number in array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B19A8E8-8B9D-4677-B4FB-AA0DB5623832}|count negative number in array\\count negative number in array.vcxproj|solutionrelative:count negative number in array\\count negative number in array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "count negative number in array.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\count negative number in array\\count negative number in array\\count negative number in array.cpp",
+              "RelativeDocumentMoniker": "count negative number in array\\count negative number in array.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\count negative number in array\\count negative number in array\\count negative number in array.cpp",
+              "RelativeToolTip": "count negative number in array\\count negative number in array.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-05T14:45:40.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

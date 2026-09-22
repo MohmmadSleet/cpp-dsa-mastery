@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\Find Clinet By Account Number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4887A8B-1975-4606-9E09-F6B2F98B9125}|Find Clinet By Account Number\\Find Clinet By Account Number.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\Find Clinet By Account Number\\Find Clinet By Account Number\\Find Clinet By Account Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4887A8B-1975-4606-9E09-F6B2F98B9125}|Find Clinet By Account Number\\Find Clinet By Account Number.vcxproj|solutionrelative:Find Clinet By Account Number\\Find Clinet By Account Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Find Clinet By Account Number.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\Find Clinet By Account Number\\Find Clinet By Account Number\\Find Clinet By Account Number.cpp",
+              "RelativeDocumentMoniker": "Find Clinet By Account Number\\Find Clinet By Account Number.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\Find Clinet By Account Number\\Find Clinet By Account Number\\Find Clinet By Account Number.cpp",
+              "RelativeToolTip": "Find Clinet By Account Number\\Find Clinet By Account Number.cpp",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T09:10:07.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

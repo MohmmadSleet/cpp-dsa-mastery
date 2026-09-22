@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\050 ATM PIN 3 Times\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABFD758-015A-46AC-A9F1-352C6FF9EBDF}|050 ATM PIN 3 Times\\050 ATM PIN 3 Times.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\050 ATM PIN 3 Times\\050 ATM PIN 3 Times\\050 ATM PIN 3 Times.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3ABFD758-015A-46AC-A9F1-352C6FF9EBDF}|050 ATM PIN 3 Times\\050 ATM PIN 3 Times.vcxproj|solutionrelative:050 ATM PIN 3 Times\\050 ATM PIN 3 Times.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "050 ATM PIN 3 Times.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\050 ATM PIN 3 Times\\050 ATM PIN 3 Times\\050 ATM PIN 3 Times.cpp",
+              "RelativeDocumentMoniker": "050 ATM PIN 3 Times\\050 ATM PIN 3 Times.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\050 ATM PIN 3 Times\\050 ATM PIN 3 Times\\050 ATM PIN 3 Times.cpp",
+              "RelativeToolTip": "050 ATM PIN 3 Times\\050 ATM PIN 3 Times.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-21T20:33:42.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

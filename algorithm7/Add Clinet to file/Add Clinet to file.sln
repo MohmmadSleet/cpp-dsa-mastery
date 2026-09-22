@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Add Clinet to file", "Add Clinet to file\Add Clinet to file.vcxproj", "{F790A717-AF20-4907-9AE0-11DBF007A43F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F790A717-AF20-4907-9AE0-11DBF007A43F}.Debug|x64.ActiveCfg = Debug|x64
+		{F790A717-AF20-4907-9AE0-11DBF007A43F}.Debug|x64.Build.0 = Debug|x64
+		{F790A717-AF20-4907-9AE0-11DBF007A43F}.Debug|x86.ActiveCfg = Debug|Win32
+		{F790A717-AF20-4907-9AE0-11DBF007A43F}.Debug|x86.Build.0 = Debug|Win32
+		{F790A717-AF20-4907-9AE0-11DBF007A43F}.Release|x64.ActiveCfg = Release|x64
+		{F790A717-AF20-4907-9AE0-11DBF007A43F}.Release|x64.Build.0 = Release|x64
+		{F790A717-AF20-4907-9AE0-11DBF007A43F}.Release|x86.ActiveCfg = Release|Win32
+		{F790A717-AF20-4907-9AE0-11DBF007A43F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92324B6F-75A6-4F8E-92C7-DCD0930568F5}
+	EndGlobalSection
+EndGlobal

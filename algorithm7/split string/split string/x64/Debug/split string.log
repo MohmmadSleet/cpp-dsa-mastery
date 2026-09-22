@@ -1,0 +1,3 @@
+﻿  split string.cpp
+C:\Users\mohmmad sleet\source\repos\split string\split string\split string.cpp(16,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  split string.vcxproj -> C:\Users\mohmmad sleet\source\repos\split string\x64\Debug\split string.exe

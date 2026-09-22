@@ -1,0 +1,3 @@
+﻿  Replace word custom.cpp
+C:\Users\mohmmad sleet\source\repos\Replace word custom\Replace word custom\Replace word custom.cpp(11,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Replace word custom.vcxproj -> C:\Users\mohmmad sleet\source\repos\Replace word custom\x64\Debug\Replace word custom.exe

@@ -1,0 +1,21 @@
+﻿  Bank Project.cpp
+C:\Users\mohmmad sleet\source\repos\Bank Project\Bank Project\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mohmmad sleet\source\repos\Bank Project\Bank Project\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mohmmad sleet\source\repos\Bank Project\Bank Project\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mohmmad sleet\source\repos\Bank Project\Bank Project\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mohmmad sleet\source\repos\Bank Project\Bank Project\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mohmmad sleet\source\repos\Bank Project\Bank Project\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mohmmad sleet\source\repos\Bank Project\Bank Project\clsBankClient.h(27,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mohmmad sleet\source\repos\Bank Project\Bank Project\clsBankClient.h(346,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mohmmad sleet\source\repos\Bank Project\Bank Project\clsBankClient.h(354,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mohmmad sleet\source\repos\Bank Project\Bank Project\clsInputValidate.h(115,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mohmmad sleet\source\repos\Bank Project\Bank Project\clsInputValidate.h(119,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mohmmad sleet\source\repos\Bank Project\Bank Project\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mohmmad sleet\source\repos\Bank Project\Bank Project\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mohmmad sleet\source\repos\Bank Project\Bank Project\clsDepositScreen.h(32,21): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\mohmmad sleet\source\repos\Bank Project\Bank Project\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+C:\Users\mohmmad sleet\source\repos\Bank Project\Bank Project\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mohmmad sleet\source\repos\Bank Project\Bank Project\clsBankClient.h(306,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\mohmmad sleet\source\repos\Bank Project\Bank Project\clsBankClient.h(357,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\mohmmad sleet\source\repos\Bank Project\Bank Project\clsUser.h(310,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank Project.vcxproj -> C:\Users\mohmmad sleet\source\repos\Bank Project\Bank Project\x64\Debug\Bank Project.exe

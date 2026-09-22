@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\power of m\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0574761A-05D5-4DFA-9301-A316210E886A}|power of m\\power of m.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\power of m\\power of m\\power of m.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0574761A-05D5-4DFA-9301-A316210E886A}|power of m\\power of m.vcxproj|solutionrelative:power of m\\power of m.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "power of m.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\power of m\\power of m\\power of m.cpp",
+              "RelativeDocumentMoniker": "power of m\\power of m.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\power of m\\power of m\\power of m.cpp",
+              "RelativeToolTip": "power of m\\power of m.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-20T08:49:32.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

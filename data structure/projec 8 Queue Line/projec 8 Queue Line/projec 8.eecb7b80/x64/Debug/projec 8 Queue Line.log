@@ -1,0 +1,9 @@
+﻿  projec 8 Queue Line.cpp
+C:\Users\mohmmad sleet\source\repos\projec 8 Queue Line\projec 8 Queue Line\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mohmmad sleet\source\repos\projec 8 Queue Line\projec 8 Queue Line\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mohmmad sleet\source\repos\projec 8 Queue Line\projec 8 Queue Line\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mohmmad sleet\source\repos\projec 8 Queue Line\projec 8 Queue Line\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mohmmad sleet\source\repos\projec 8 Queue Line\projec 8 Queue Line\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mohmmad sleet\source\repos\projec 8 Queue Line\projec 8 Queue Line\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mohmmad sleet\source\repos\projec 8 Queue Line\projec 8 Queue Line\clsQueueLine.h(108,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  projec 8 Queue Line.vcxproj -> C:\Users\mohmmad sleet\source\repos\projec 8 Queue Line\projec 8 Queue Line\x64\Debug\projec 8 Queue Line.exe

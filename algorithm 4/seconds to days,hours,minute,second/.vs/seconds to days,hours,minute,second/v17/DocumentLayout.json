@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\seconds to days,hours,minute,second\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96184B40-5F17-44C8-92C2-068B9FD9FBFC}|seconds to days,hours,minute,second\\seconds to days,hours,minute,second.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\seconds to days,hours,minute,second\\seconds to days,hours,minute,second\\seconds to days,hours,minute,second.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96184B40-5F17-44C8-92C2-068B9FD9FBFC}|seconds to days,hours,minute,second\\seconds to days,hours,minute,second.vcxproj|solutionrelative:seconds to days,hours,minute,second\\seconds to days,hours,minute,second.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "seconds to days,hours,minute,second.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\seconds to days,hours,minute,second\\seconds to days,hours,minute,second\\seconds to days,hours,minute,second.cpp",
+              "RelativeDocumentMoniker": "seconds to days,hours,minute,second\\seconds to days,hours,minute,second.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\seconds to days,hours,minute,second\\seconds to days,hours,minute,second\\seconds to days,hours,minute,second.cpp",
+              "RelativeToolTip": "seconds to days,hours,minute,second\\seconds to days,hours,minute,second.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-20T20:02:49.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

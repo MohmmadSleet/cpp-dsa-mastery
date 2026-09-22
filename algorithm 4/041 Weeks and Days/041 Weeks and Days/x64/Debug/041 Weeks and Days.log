@@ -1,0 +1,7 @@
+﻿  041 Weeks and Days.cpp
+C:\Users\mohmmad sleet\source\repos\041 Weeks and Days\041 Weeks and Days\041 Weeks and Days.cpp(19,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\mohmmad sleet\source\repos\041 Weeks and Days\041 Weeks and Days\041 Weeks and Days.cpp(23,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\mohmmad sleet\source\repos\041 Weeks and Days\041 Weeks and Days\041 Weeks and Days.cpp(33,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mohmmad sleet\source\repos\041 Weeks and Days\041 Weeks and Days\041 Weeks and Days.cpp(34,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mohmmad sleet\source\repos\041 Weeks and Days\041 Weeks and Days\041 Weeks and Days.cpp(35,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  041 Weeks and Days.vcxproj -> C:\Users\mohmmad sleet\source\repos\041 Weeks and Days\x64\Debug\041 Weeks and Days.exe

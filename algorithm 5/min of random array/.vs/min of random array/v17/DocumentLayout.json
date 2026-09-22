@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\min of random array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9332F21-4408-4189-BED3-FE9BD6D6DFAD}|min of random array\\min of random array.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\min of random array\\min of random array\\min of random array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9332F21-4408-4189-BED3-FE9BD6D6DFAD}|min of random array\\min of random array.vcxproj|solutionrelative:min of random array\\min of random array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "min of random array.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\min of random array\\min of random array\\min of random array.cpp",
+              "RelativeDocumentMoniker": "min of random array\\min of random array.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\min of random array\\min of random array\\min of random array.cpp",
+              "RelativeToolTip": "min of random array\\min of random array.cpp",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAACwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-03T14:11:27.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  Delet Client By Account Number.cpp
+C:\Users\mohmmad sleet\source\repos\Delet Client By Account Number\Delet Client By Account Number\Delet Client By Account Number.cpp(199,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mohmmad sleet\source\repos\Delet Client By Account Number\Delet Client By Account Number\Delet Client By Account Number.cpp(326,1): warning C4715: 'DeletClientByAccountNumber': not all control paths return a value
+  Delet Client By Account Number.vcxproj -> C:\Users\mohmmad sleet\source\repos\Delet Client By Account Number\x64\Debug\Delet Client By Account Number.exe

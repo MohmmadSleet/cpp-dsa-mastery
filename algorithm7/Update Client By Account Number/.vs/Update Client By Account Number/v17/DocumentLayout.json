@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\Update Client By Account Number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0956A34-E035-495B-BEA4-96BA222AF688}|Update Client By Account Number\\Update Client By Account Number.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\Update Client By Account Number\\Update Client By Account Number\\Update Client By Account Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0956A34-E035-495B-BEA4-96BA222AF688}|Update Client By Account Number\\Update Client By Account Number.vcxproj|solutionrelative:Update Client By Account Number\\Update Client By Account Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Update Client By Account Number.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\Update Client By Account Number\\Update Client By Account Number\\Update Client By Account Number.cpp",
+              "RelativeDocumentMoniker": "Update Client By Account Number\\Update Client By Account Number.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\Update Client By Account Number\\Update Client By Account Number\\Update Client By Account Number.cpp",
+              "RelativeToolTip": "Update Client By Account Number\\Update Client By Account Number.cpp",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAswKMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T13:16:23.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

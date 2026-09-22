@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\my round\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{209B38BD-FB95-409C-8450-A6E5F96418B8}|my round\\my round.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\my round\\my round\\my round.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{209B38BD-FB95-409C-8450-A6E5F96418B8}|my round\\my round.vcxproj|solutionrelative:my round\\my round.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "my round.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\my round\\my round\\my round.cpp",
+              "RelativeDocumentMoniker": "my round\\my round.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\my round\\my round\\my round.cpp",
+              "RelativeToolTip": "my round\\my round.cpp",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-05T15:13:51.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

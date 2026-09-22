@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\inverted letter pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB416CF7-93DB-4A3C-8245-9D928C62607C}|inverted letter pattern\\inverted letter pattern.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\inverted letter pattern\\inverted letter pattern\\inverted letter pattern.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB416CF7-93DB-4A3C-8245-9D928C62607C}|inverted letter pattern\\inverted letter pattern.vcxproj|solutionrelative:inverted letter pattern\\inverted letter pattern.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inverted letter pattern.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\inverted letter pattern\\inverted letter pattern\\inverted letter pattern.cpp",
+              "RelativeDocumentMoniker": "inverted letter pattern\\inverted letter pattern.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\inverted letter pattern\\inverted letter pattern\\inverted letter pattern.cpp",
+              "RelativeToolTip": "inverted letter pattern\\inverted letter pattern.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowB4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-24T14:55:57.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

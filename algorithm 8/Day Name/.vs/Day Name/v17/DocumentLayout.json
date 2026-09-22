@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\Day Name\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F99025DF-8476-47B4-B913-362AD8050BFA}|Day Name\\Day Name.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\Day Name\\Day Name\\Day Name.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F99025DF-8476-47B4-B913-362AD8050BFA}|Day Name\\Day Name.vcxproj|solutionrelative:Day Name\\Day Name.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Day Name.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\Day Name\\Day Name\\Day Name.cpp",
+              "RelativeDocumentMoniker": "Day Name\\Day Name.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\Day Name\\Day Name\\Day Name.cpp",
+              "RelativeToolTip": "Day Name\\Day Name.cpp",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwCMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-29T10:47:04.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

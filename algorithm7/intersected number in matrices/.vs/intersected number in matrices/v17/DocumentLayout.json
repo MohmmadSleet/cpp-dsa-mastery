@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\intersected number in matrices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC42EB5-49DC-4D98-B2CF-EE2E3CCC07A0}|intersected number in matrices\\intersected number in matrices.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\intersected number in matrices\\intersected number in matrices\\intersected number in matrices.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AC42EB5-49DC-4D98-B2CF-EE2E3CCC07A0}|intersected number in matrices\\intersected number in matrices.vcxproj|solutionrelative:intersected number in matrices\\intersected number in matrices.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "intersected number in matrices.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\intersected number in matrices\\intersected number in matrices\\intersected number in matrices.cpp",
+              "RelativeDocumentMoniker": "intersected number in matrices\\intersected number in matrices.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\intersected number in matrices\\intersected number in matrices\\intersected number in matrices.cpp",
+              "RelativeToolTip": "intersected number in matrices\\intersected number in matrices.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T09:19:25.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

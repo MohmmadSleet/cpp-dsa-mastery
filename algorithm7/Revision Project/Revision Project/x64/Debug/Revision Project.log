@@ -1,0 +1,5 @@
+﻿  Revision Project.cpp
+C:\Users\mohmmad sleet\source\repos\Revision Project\Revision Project\Revision Project.cpp(38,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mohmmad sleet\source\repos\Revision Project\Revision Project\Revision Project.cpp(252,1): warning C4715: 'DeletClientByAccountNumber': not all control paths return a value
+C:\Users\mohmmad sleet\source\repos\Revision Project\Revision Project\Revision Project.cpp(302,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  Revision Project.vcxproj -> C:\Users\mohmmad sleet\source\repos\Revision Project\x64\Debug\Revision Project.exe

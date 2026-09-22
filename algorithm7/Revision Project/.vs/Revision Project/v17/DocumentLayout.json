@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\Revision Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA4B711-C106-4F98-BB23-BCD135C68021}|Revision Project\\Revision Project.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\Revision Project\\Revision Project\\Revision Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFA4B711-C106-4F98-BB23-BCD135C68021}|Revision Project\\Revision Project.vcxproj|solutionrelative:Revision Project\\Revision Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohmmad sleet\\source\\repos\\Project 1 Bank 1\\Project 1 Bank 1\\Project 1 Bank 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project 1 Bank 1.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\Project 1 Bank 1\\Project 1 Bank 1\\Project 1 Bank 1.cpp",
+              "RelativeDocumentMoniker": "..\\Project 1 Bank 1\\Project 1 Bank 1\\Project 1 Bank 1.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\Project 1 Bank 1\\Project 1 Bank 1\\Project 1 Bank 1.cpp",
+              "RelativeToolTip": "..\\Project 1 Bank 1\\Project 1 Bank 1\\Project 1 Bank 1.cpp",
+              "ViewState": "AQIAAEkBAAAAAAAAAAAAADAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-25T17:20:31.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Revision Project.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\Revision Project\\Revision Project\\Revision Project.cpp",
+              "RelativeDocumentMoniker": "Revision Project\\Revision Project.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\Revision Project\\Revision Project\\Revision Project.cpp",
+              "RelativeToolTip": "Revision Project\\Revision Project.cpp",
+              "ViewState": "AQIAAGcBAAAAAAAAAAAAAGABAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-25T17:07:57.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

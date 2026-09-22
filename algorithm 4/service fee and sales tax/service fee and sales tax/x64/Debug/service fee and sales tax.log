@@ -1,0 +1,4 @@
+﻿  service fee and sales tax.cpp
+C:\Users\mohmmad sleet\source\repos\service fee and sales tax\service fee and sales tax\service fee and sales tax.cpp(18,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mohmmad sleet\source\repos\service fee and sales tax\service fee and sales tax\service fee and sales tax.cpp(19,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  service fee and sales tax.vcxproj -> C:\Users\mohmmad sleet\source\repos\service fee and sales tax\x64\Debug\service fee and sales tax.exe

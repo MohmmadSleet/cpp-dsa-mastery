@@ -1,0 +1,3 @@
+﻿  my sqrt.cpp
+C:\Users\mohmmad sleet\source\repos\my sqrt\my sqrt\my sqrt.cpp(16,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  my sqrt.vcxproj -> C:\Users\mohmmad sleet\source\repos\my sqrt\x64\Debug\my sqrt.exe

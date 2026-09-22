@@ -1,0 +1,3 @@
+﻿  Revision string.cpp
+C:\Users\mohmmad sleet\source\repos\Revision string\Revision string\Revision string.cpp(20,27): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Revision string.vcxproj -> C:\Users\mohmmad sleet\source\repos\Revision string\x64\Debug\Revision string.exe

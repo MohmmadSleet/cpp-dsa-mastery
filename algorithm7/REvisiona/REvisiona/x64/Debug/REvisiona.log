@@ -1,0 +1,4 @@
+﻿  REvisiona.cpp
+C:\Users\mohmmad sleet\source\repos\REvisiona\REvisiona\REvisiona.cpp(212,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mohmmad sleet\source\repos\REvisiona\REvisiona\REvisiona.cpp(331,1): warning C4715: 'DeletClientDataFromFileByAccountNumber': not all control paths return a value
+  REvisiona.vcxproj -> C:\Users\mohmmad sleet\source\repos\REvisiona\x64\Debug\REvisiona.exe

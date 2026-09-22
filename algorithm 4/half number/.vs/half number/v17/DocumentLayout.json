@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\half number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60D76872-19F6-46F0-B87B-3E4BC6CAC4E8}|half number\\half number.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\half number\\half number\\half number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60D76872-19F6-46F0-B87B-3E4BC6CAC4E8}|half number\\half number.vcxproj|solutionrelative:half number\\half number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "half number.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\half number\\half number\\half number.cpp",
+              "RelativeDocumentMoniker": "half number\\half number.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\half number\\half number\\half number.cpp",
+              "RelativeToolTip": "half number\\half number.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-19T12:52:13.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

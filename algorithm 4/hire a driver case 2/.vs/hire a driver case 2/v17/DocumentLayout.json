@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\hire a driver case 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE421B4-4F8D-4E83-8D27-069A5E900B09}|hire a driver case 2\\hire a driver case 2.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\hire a driver case 2\\hire a driver case 2\\hire a driver case 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFE421B4-4F8D-4E83-8D27-069A5E900B09}|hire a driver case 2\\hire a driver case 2.vcxproj|solutionrelative:hire a driver case 2\\hire a driver case 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hire a driver case 2.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\hire a driver case 2\\hire a driver case 2\\hire a driver case 2.cpp",
+              "RelativeDocumentMoniker": "hire a driver case 2\\hire a driver case 2.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\hire a driver case 2\\hire a driver case 2\\hire a driver case 2.cpp",
+              "RelativeToolTip": "hire a driver case 2\\hire a driver case 2.cpp",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwBsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-18T16:52:06.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

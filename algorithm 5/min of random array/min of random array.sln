@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "min of random array", "min of random array\min of random array.vcxproj", "{A9332F21-4408-4189-BED3-FE9BD6D6DFAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9332F21-4408-4189-BED3-FE9BD6D6DFAD}.Debug|x64.ActiveCfg = Debug|x64
+		{A9332F21-4408-4189-BED3-FE9BD6D6DFAD}.Debug|x64.Build.0 = Debug|x64
+		{A9332F21-4408-4189-BED3-FE9BD6D6DFAD}.Debug|x86.ActiveCfg = Debug|Win32
+		{A9332F21-4408-4189-BED3-FE9BD6D6DFAD}.Debug|x86.Build.0 = Debug|Win32
+		{A9332F21-4408-4189-BED3-FE9BD6D6DFAD}.Release|x64.ActiveCfg = Release|x64
+		{A9332F21-4408-4189-BED3-FE9BD6D6DFAD}.Release|x64.Build.0 = Release|x64
+		{A9332F21-4408-4189-BED3-FE9BD6D6DFAD}.Release|x86.ActiveCfg = Release|Win32
+		{A9332F21-4408-4189-BED3-FE9BD6D6DFAD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBB900BA-ED6A-4F26-996C-88DD838EFA1E}
+	EndGlobalSection
+EndGlobal

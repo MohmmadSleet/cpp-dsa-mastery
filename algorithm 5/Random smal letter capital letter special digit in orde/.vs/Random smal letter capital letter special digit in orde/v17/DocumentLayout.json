@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\Random smal letter capital letter special digit in orde\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF7C7FC-69C1-4430-80F7-6A8ED167E2BF}|Random smal letter capital letter special digit in orde\\Random smal letter capital letter special digit in orde.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\Random smal letter capital letter special digit in orde\\Random smal letter capital letter special digit in orde\\Random smal letter capital letter special digit in orde.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1DF7C7FC-69C1-4430-80F7-6A8ED167E2BF}|Random smal letter capital letter special digit in orde\\Random smal letter capital letter special digit in orde.vcxproj|solutionrelative:Random smal letter capital letter special digit in orde\\Random smal letter capital letter special digit in orde.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Random smal letter capital letter special digit in orde.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\Random smal letter capital letter special digit in orde\\Random smal letter capital letter special digit in orde\\Random smal letter capital letter special digit in orde.cpp",
+              "RelativeDocumentMoniker": "Random smal letter capital letter special digit in orde\\Random smal letter capital letter special digit in orde.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\Random smal letter capital letter special digit in orde\\Random smal letter capital letter special digit in orde\\Random smal letter capital letter special digit in orde.cpp",
+              "RelativeToolTip": "Random smal letter capital letter special digit in orde\\Random smal letter capital letter special digit in orde.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-25T20:39:20.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

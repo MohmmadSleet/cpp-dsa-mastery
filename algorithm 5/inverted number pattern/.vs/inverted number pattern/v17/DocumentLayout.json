@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\inverted number pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC15D5E3-B93A-419E-97E0-1AEA4BECD5DC}|inverted number pattern\\inverted number pattern.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\inverted number pattern\\inverted number pattern\\inverted number pattern.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC15D5E3-B93A-419E-97E0-1AEA4BECD5DC}|inverted number pattern\\inverted number pattern.vcxproj|solutionrelative:inverted number pattern\\inverted number pattern.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inverted number pattern.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\inverted number pattern\\inverted number pattern\\inverted number pattern.cpp",
+              "RelativeDocumentMoniker": "inverted number pattern\\inverted number pattern.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\inverted number pattern\\inverted number pattern\\inverted number pattern.cpp",
+              "RelativeToolTip": "inverted number pattern\\inverted number pattern.cpp",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-24T13:23:23.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

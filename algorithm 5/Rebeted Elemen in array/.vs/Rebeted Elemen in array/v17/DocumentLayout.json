@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmad sleet\\source\\repos\\Rebeted Elemen in array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{202BF731-E4C5-49BF-A045-AFDBBEB2D091}|Rebeted Elemen in array\\Rebeted Elemen in array.vcxproj|C:\\Users\\mohmmad sleet\\source\\repos\\Rebeted Elemen in array\\Rebeted Elemen in array\\Rebeted Elemen in array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{202BF731-E4C5-49BF-A045-AFDBBEB2D091}|Rebeted Elemen in array\\Rebeted Elemen in array.vcxproj|solutionrelative:Rebeted Elemen in array\\Rebeted Elemen in array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rebeted Elemen in array.cpp",
+              "DocumentMoniker": "C:\\Users\\mohmmad sleet\\source\\repos\\Rebeted Elemen in array\\Rebeted Elemen in array\\Rebeted Elemen in array.cpp",
+              "RelativeDocumentMoniker": "Rebeted Elemen in array\\Rebeted Elemen in array.cpp",
+              "ToolTip": "C:\\Users\\mohmmad sleet\\source\\repos\\Rebeted Elemen in array\\Rebeted Elemen in array\\Rebeted Elemen in array.cpp",
+              "RelativeToolTip": "Rebeted Elemen in array\\Rebeted Elemen in array.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvzAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-03T11:01:27.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
